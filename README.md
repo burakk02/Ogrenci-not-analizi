@@ -29,3 +29,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    ```bash
    git clone [https://github.com/burakk02/Ogrenci-not-analizi.git](https://github.com/burakk02/Ogrenci-not-analizi.git)
    cd Ogrenci-not-analizi
+'''
+![Program Çıktısı - Not Grafiği](analiz-bar-plot.png)
+   
