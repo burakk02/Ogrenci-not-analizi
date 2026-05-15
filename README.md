@@ -1,0 +1,1 @@
+# Ogrenci-not-analizi
